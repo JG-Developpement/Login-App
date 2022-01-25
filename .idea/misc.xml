@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/julie/AndroidStudioProjects/LoginActivity/app/src/main/res/drawable-night/background_button.xml" value="0.27579666160849775" />
+        <entry key="..\:/Users/julie/AndroidStudioProjects/LoginActivity/app/src/main/res/drawable-night/shape_dialogue.xml" value="0.27579666160849775" />
+        <entry key="..\:/Users/julie/AndroidStudioProjects/LoginActivity/app/src/main/res/drawable-v24/background_button_dark.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/julie/AndroidStudioProjects/LoginActivity/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.27579666160849775" />
+        <entry key="..\:/Users/julie/AndroidStudioProjects/LoginActivity/app/src/main/res/drawable-v24/shape_dialogue_dark.xml" value="0.27579666160849775" />
+        <entry key="..\:/Users/julie/AndroidStudioProjects/LoginActivity/app/src/main/res/drawable-v24/shape_dialogue_light.xml" value="0.27579666160849775" />
+        <entry key="..\:/Users/julie/AndroidStudioProjects/LoginActivity/app/src/main/res/drawable-v24/shape_light.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/julie/AndroidStudioProjects/LoginActivity/app/src/main/res/drawable/background_button.xml" value="0.25" />
+        <entry key="..\:/Users/julie/AndroidStudioProjects/LoginActivity/app/src/main/res/drawable/background_button_dialog.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/julie/AndroidStudioProjects/LoginActivity/app/src/main/res/drawable/border_radius_top.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/julie/AndroidStudioProjects/LoginActivity/app/src/main/res/drawable/ic_baseline_color_lens_24.xml" value="0.27579666160849775" />
+        <entry key="..\:/Users/julie/AndroidStudioProjects/LoginActivity/app/src/main/res/drawable/ic_baseline_power_24.xml" value="0.27579666160849775" />
+        <entry key="..\:/Users/julie/AndroidStudioProjects/LoginActivity/app/src/main/res/drawable/ic_launcher_background.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/julie/AndroidStudioProjects/LoginActivity/app/src/main/res/drawable/shape_dark.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/julie/AndroidStudioProjects/LoginActivity/app/src/main/res/drawable/side_nav_bar.xml" value="0.27579666160849775" />
+        <entry key="..\:/Users/julie/AndroidStudioProjects/LoginActivity/app/src/main/res/drawable/underline_small_gold.xml" value="0.27579666160849775" />
+        <entry key="..\:/Users/julie/AndroidStudioProjects/LoginActivity/app/src/main/res/font/selima.xml" value="0.3927083333333333" />
+        <entry key="..\:/Users/julie/AndroidStudioProjects/LoginActivity/app/src/main/res/layout/activity_home.xml" value="0.26403641881638845" />
+        <entry key="..\:/Users/julie/AndroidStudioProjects/LoginActivity/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/julie/AndroidStudioProjects/LoginActivity/app/src/main/res/layout/activity_main.xml" value="0.26403641881638845" />
+        <entry key="..\:/Users/julie/AndroidStudioProjects/LoginActivity/app/src/main/res/layout/app_bar_main.xml" value="0.26403641881638845" />
+        <entry key="..\:/Users/julie/AndroidStudioProjects/LoginActivity/app/src/main/res/layout/awesome_dilaog.xml" value="0.3625" />
+        <entry key="..\:/Users/julie/AndroidStudioProjects/LoginActivity/app/src/main/res/layout/awesome_dilaog_new.xml" value="0.26403641881638845" />
+        <entry key="..\:/Users/julie/AndroidStudioProjects/LoginActivity/app/src/main/res/layout/content_main.xml" value="0.26403641881638845" />
+        <entry key="..\:/Users/julie/AndroidStudioProjects/LoginActivity/app/src/main/res/layout/fragment_gallery.xml" value="0.26403641881638845" />
+        <entry key="..\:/Users/julie/AndroidStudioProjects/LoginActivity/app/src/main/res/layout/fragment_home.xml" value="0.26403641881638845" />
+        <entry key="..\:/Users/julie/AndroidStudioProjects/LoginActivity/app/src/main/res/layout/fragment_slideshow.xml" value="0.26403641881638845" />
+        <entry key="..\:/Users/julie/AndroidStudioProjects/LoginActivity/app/src/main/res/layout/nav_header.xml" value="0.26403641881638845" />
+        <entry key="..\:/Users/julie/AndroidStudioProjects/LoginActivity/app/src/main/res/layout/nav_header_main.xml" value="0.26403641881638845" />
+        <entry key="..\:/Users/julie/AndroidStudioProjects/LoginActivity/app/src/main/res/menu/activity_main_drawer.xml" value="0.26403641881638845" />
+        <entry key="..\:/Users/julie/AndroidStudioProjects/LoginActivity/app/src/main/res/menu/drawer_menu.xml" value="0.26403641881638845" />
+        <entry key="..\:/Users/julie/AndroidStudioProjects/LoginActivity/app/src/main/res/menu/main.xml" value="0.26403641881638845" />
+        <entry key="..\:/Users/julie/AndroidStudioProjects/LoginActivity/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.27579666160849775" />
+        <entry key="..\:/Users/julie/AndroidStudioProjects/LoginActivity/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.27579666160849775" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

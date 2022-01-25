@@ -1,0 +1,87 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="Theme.LoginActivity" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/grey</item>
+        <item name="colorPrimaryDark">@color/grey_500</item>
+        <item name="colorAccent">@color/gold</item>
+        <!-- Customize your theme here. -->
+        <item name="android:fontFamily">@font/libre_baskerville</item>
+        <item name="drawerArrowStyle">@style/DrawerArrowStyle</item>
+    </style>
+
+    <style name="DrawerArrowStyle" parent="@style/Widget.AppCompat.DrawerArrowToggle">
+        <item name="spinBars">true</item>
+        <item name="color">@color/textColor</item>
+    </style>
+
+    <style name="Theme.LoginActivity.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.LoginActivity.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="Theme.LoginActivity.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="activity">
+        <item name="android:backgroundTint">@color/defaultBackground</item>
+        <item name="android:background">@color/defaultBackground</item>
+    </style>
+
+    <style name="shape_top_corners">
+        <item name="android:backgroundTint">@color/white</item>
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSizeTopRight">40dp</item>
+        <item name="cornerSizeTopLeft">40dp</item>
+        <item name="cornerSizeBottomRight">1dp</item>
+        <item name="cornerSizeBottomLeft">1dp</item>
+    </style>
+
+    <style name="login_image">
+        <item name="srcCompat">@drawable/logo</item>
+    </style>
+
+    <style name="login_button">
+        <item name="android:background">@drawable/background_button</item>
+        <item name="android:textColor">@color/textColor</item>
+        <item name="android:textSize">@dimen/login_button_text_size</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_marginStart">@dimen/login_button_margin</item>
+        <item name="android:layout_marginEnd">@dimen/login_button_margin</item>
+        <item name="android:letterSpacing">0.15</item>
+    </style>
+
+    <style name="LoginFirebaseTheme" parent="FirebaseUI">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="colorPrimary">@color/grey</item>
+        <item name="colorPrimaryDark">@color/grey_500</item>
+        <item name="colorAccent">@color/gold</item>
+        <item name="android:fontFamily">@font/libre_baskerville</item>
+        <item name="colorControlNormal">@color/grey</item>
+        <item name="colorControlActivated">@color/grey_500</item>
+        <item name="colorControlHighlight">@color/gold</item>
+    </style>
+
+    <style name="NavigationDrawerStyle">
+        <!-- custom design -->
+        <item name="android:fitsSystemWindows">true</item>
+        <item name="android:background">@color/navHeaderBackground</item>
+        <item name="android:paddingStart">@dimen/nav_view_padding</item>
+        <item name="android:paddingEnd">@dimen/nav_view_padding</item>
+        <!-- text size in menu -->
+        <item name="android:textSize">@dimen/nav_header_menu_text_size</item>
+        <!-- item size in menu -->
+        <item name="android:listPreferredItemHeightSmall">@dimen/nav_header_list_item_size</item>
+        <item name="listPreferredItemHeightSmall">@dimen/nav_header_list_item_size</item>
+        <!-- item padding left in menu -->
+        <item name="android:listPreferredItemPaddingLeft">@dimen/nav_view_padding</item>
+        <item name="listPreferredItemPaddingLeft">@dimen/nav_view_padding</item>
+        <!-- item padding right in menu -->
+        <item name="android:listPreferredItemPaddingRight">@dimen/nav_view_padding</item>
+        <item name="listPreferredItemPaddingRight">@dimen/nav_view_padding</item>
+    </style>
+
+</resources>

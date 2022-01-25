@@ -1,0 +1,35 @@
+<resources>
+
+    <!-- Title App string -->
+    <string name="app_name">JG Développement</string>
+
+    <!-- Error string -->
+    <string name="error_no_internet">No connexion internet availed</string>
+    <string name="error">error</string>
+    <string name="error_unknown_error">An unexpected error occur</string>
+    <string name="error_authentication_canceled">Authentication have been canceled</string>
+
+    <!-- Navigation string -->
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="navigation_view_logo_image">navigation view logo image</string>
+
+    <!-- Menu string -->
+    <string name="change_themes">Change themes</string>
+    <string name="logout">logout</string>
+
+    <!-- Dialogue string -->
+    <string name="dialogue_title">Set Theme</string>
+    <string name="dialogue_body">What theme you want to use ?</string>
+    <string name="dialogue_light_theme">Light theme</string>
+    <string name="dialogue_dark_theme">Dark theme</string>
+
+    <!-- Login string -->
+    <string name="login_with_email">Login with Email</string>
+    <string name="login_with_google">Login with Google</string>
+    <string name="login_logo_image">login logo image</string>
+
+    <!-- Home string -->
+    <string name="start_coding">Start Coding …</string>
+
+</resources>

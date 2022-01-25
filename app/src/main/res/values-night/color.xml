@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="defaultBackground">#222831</color>
+    <color name="textColor">#FFFFFF</color>
+    <!-- NavHeader -->
+    <color name="navHeaderBackground">#222831</color>
+    <color name="navHeaderMenu">#EEEEEE</color>
+    <color name="navHeaderMenuChecked">#C5B358</color>
+    <!-- Dialog Button -->
+    <color name="dialogButtonStart">#222831</color>
+    <color name="dialogButtonEnd">#393E46</color>
+    <color name="dialogTextColor">#EEEEEE</color>
+</resources>

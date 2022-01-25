@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/theme"
+        android:enabled="true"
+        android:icon="@drawable/themes"
+        android:title="@string/change_themes"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/logout"
+        android:enabled="true"
+        android:icon="@drawable/power_button"
+        android:title="@string/logout"
+        app:showAsAction="ifRoom" />
+
+</menu>
